@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HimanshuMishra-web
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning php & mysql
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning nodeJS and Web3
+- 💞️ I’m looking to collaborate on ... ReactJS,NodeJS
 - 📫 How to reach me 
 
 <!---
