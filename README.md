@@ -1,143 +1,60 @@
-Hi there, I'm Himanshu Mishra! 👋
-About Me
-I'm a passionate and results-driven Frontend-focused Full Stack Developer with 3+ years of experience building high-performance, scalable web applications using React, Node.js, and TypeScript. I am passionate about delivering clean, responsive UI/UX, real-time features, and working on impactful digital products. I strongly believe in component-based architecture, reusable code, and performance optimization.
+<h1 align="center">Hi 👋, I'm Himanshu Mishra</h1>
+<h3 align="center">🚀 Full Stack Developer | 📱 React Native Enthusiast | 💡 AI + Backend Innovator</h3>
 
-🔭 I’m currently working on SmartCV, an AI-powered Resume Builder. This mobile-responsive app is built with React + TypeScript and integrates the OpenAI API to offer AI-driven content suggestions for resumes.
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" />
 
-🌱 I’m constantly learning and exploring new ways to enhance web application performance and user experience.
+---
 
-👯 I’m looking to collaborate on innovative web development projects, especially those involving AI integration, real-time features, or robust backend systems.
+### 🛠️ Tech Stack
 
-🤔 I’m always open to discussing efficient architectural patterns and advanced state management in React.
-
-💬 Ask me about React, Node.js, TypeScript, MongoDB, GraphQL, and building scalable web applications.
-
-📫 How to reach me: hmishra1210.work@gmail.com or connect with me on LinkedIn (Himanshu Mishra).
-
-⚡ Fun fact: I'm always looking for ways to automate repetitive tasks and make development workflows more efficient!
-
-Skills
-Here are some of the technologies and tools I work with:
-
-Programming Languages:
-
-Python
-
-JavaScript
-
-TypeScript
-
-Frontend Development:
-
-HTML5
-
-CSS3
-
-JavaScript (ES6+)
-
-ReactJS
-
-MUI
-
-Redux
-
-React Query
-
-Formik
-
-Yup
-
-ElectronJS
-
-React Native
-
-Backend Development:
-
-NodeJS
-
-ExpressJS
-
-GraphQL
-
-MongoDB
-
-MySQL
-
-Cloud Platforms:
-
-AWS Lambda
-
-Tools & Technologies:
-
-Git & GitHub
-
-Docker
-
-Kafka
-
-My GitHub Stats
-(Replace [your-github-username] with your actual GitHub username to display your stats.)
-
-Featured Projects
-Here are some projects I'm particularly proud of:
-
-Project 1: SmartCV (AI-powered Resume Builder)
-Description: A mobile-responsive application built for users to generate resumes, integrating the OpenAI API to offer AI-driven content suggestions (summaries, skills, experiences). It features custom resume templates with real-time preview and PDF export.
-
-Technologies Used: React, TypeScript, Node.js, Express, MongoDB, GraphQL
-
-Features:
-
-AI-driven content suggestions for resumes
-
-Mobile-responsive UI/UX
-
-Custom resume templates with real-time preview
-
-PDF export functionality
-
-Secure login/authentication logic
-
-Autosave, template switching, and validation
-
-Repository: [Link to SmartCV GitHub Repository] (Please replace with the actual link)
-
-Live Demo (Optional): [Link to Live Demo if available]
-
-Project 2: Real-time Trading Analysis App
-Description: Designed and deployed a real-time trading analysis application, integrating Kafka for efficient, event-driven streaming and Dockerized for seamless local and production deployment.
-
-Technologies Used: React, Node.js, TypeScript, TradingView, Kafka, Docker
-
-Features:
-
-Real-time trading data analysis
-
-Event-driven streaming with Kafka
-
-Dockerized for easy deployment
-
-Improved frontend load performance by 30% using code splitting and lazy loading
-
-Modular backend APIs with JWT-based authentication
-
-Repository: [Link to Trading App GitHub Repository] (Please replace with the actual link)
-
-Live Demo (Optional): [Link to Live Demo if available]
-
-(Add more project sections as needed. Focus on projects that best showcase your skills and interests.)
-
-Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/himanshu-mishra-web/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:hmishra1210.work@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://himanshumishra-web.github.io/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=browser&logoColor=white" alt="Portfolio" />
-</a>
+#### 🚀 Frontend
+<p>
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-%235A29E4.svg?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-Thanks for visiting my profile!
+#### 🧠 Backend & APIs
+<p>
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white" />
+</p>
+
+#### 💾 Databases & DevOps
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+#### 🛠 Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshu-mishra&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-mishra&theme=radical" width="47%" />
+</p>
+
+---
+
+### 🤝 Let’s Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:hmishra1210.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
